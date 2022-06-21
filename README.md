@@ -1,0 +1,2 @@
+# JHStringFormat
+some methods

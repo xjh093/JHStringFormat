@@ -8,10 +8,7 @@ some methods
 ```
 /**
  大于等于10000时，显示“x 万”并且精确到千位.
- 如：10999时，显示“1万”；11000时，显示“1.1万“.
- 
- @param number number.
- @return string.count
+ 如：10999时，显示“1万”；11000时，显示“1.1万”.
  */
 + (NSString *)numberFormat:(NSInteger)number;
 
